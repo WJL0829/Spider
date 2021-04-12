@@ -69,11 +69,18 @@ img文件夹中是部分结果
 * 模拟题.zip  
 
  
-## 4、51VOA文章   
+## 4、51VOA  
 
-> 数据来源：https://www.51voa.com/Technology_Report_1.html  
+> 数据来源：https://www.51voa.com
 > VOA网站源码差不多，爬取其他分类文章稍微修改一下就能用
 
+### (1)VOA慢速  
+
+> 数据来源：https://www.51voa.com/Technology_Report_1.html  
+
+#### 代码文件
+
+* 
 
 ### 代码文件  
 
